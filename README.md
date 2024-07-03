@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Neste desafio foi criado um Focus Timer(V2) parecido com o Pomodoro. Temas aplicados:
+Neste desafio foi criado uma aplicação para salvar usuários do GitHub. Temas aplicados:
 
 - Funções no Javascript
 - Async Functions
