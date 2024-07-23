@@ -43,6 +43,7 @@ class Favorites {
     this.save()
   }
 }
+
 export class FavoritesView extends Favorites {
   constructor(root) {
     super(root)
