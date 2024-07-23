@@ -19,12 +19,12 @@ class Favorites {
   async add(username) {
     try {
       const userExists = this.users.find(user => user.login.toLowerCase() === username.toLowerCase())
-      if (userExists) {
+      if(userExists) {
         throw new Error('Usuário já existe')
       }
 
       const user = await gitHubUser.search(username)
-      if (!user.login) {
+      if(!user.login) {
         throw new Error('Usuário não encontrado')
       }
 
@@ -43,7 +43,6 @@ class Favorites {
     this.save()
   }
 }
-
 export class FavoritesView extends Favorites {
   constructor(root) {
     super(root)
@@ -88,7 +87,7 @@ export class FavoritesView extends Favorites {
 
       row.querySelector('.remove').onclick = () => {
         const isOk = confirm('Tem certeza que deseja deletar esse usuário?')
-        if (isOk) {
+        if(isOk) {
           this.delete(user)
         }
       }
