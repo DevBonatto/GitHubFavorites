@@ -52,4 +52,4 @@ Neste desafio foi criado uma aplicação para salvar usuários do GitHub. Temas 
 Não foi utilizado nenhum layout para desenvolver esse projeto.
 
 ## 📄 Documentação Lógica
-[CLIQUE AQUI](https://drive.google.com/file/d/1G36P3XDADhoMFfG3Yypoqnj6G0kiNRpR/view?usp=sharing) para ver a documentação lógica do projeto.
+[CLIQUE AQUI](https://drive.google.com/file/d/1e5xCdRKXAzaZwXs27aKL9o6wcRNP6RnC/view?usp=sharing) para ver a documentação lógica do projeto.
