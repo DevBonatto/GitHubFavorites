@@ -3,8 +3,10 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-resultado">Resultado</a>&nbsp;&nbsp;&nbsp;
+   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Documentação Lógica</a>&nbsp;&nbsp;&nbsp;
 </p>
+
 
 <br>
 
@@ -48,3 +50,6 @@ Neste desafio foi criado uma aplicação para salvar usuários do GitHub. Temas 
 
 ## 🔖 Layout
 Não foi utilizado nenhum layout para desenvolver esse projeto.
+
+## 📄 Documentação Lógica
+[CLIQUE AQUI](https://drive.google.com/file/d/1G36P3XDADhoMFfG3Yypoqnj6G0kiNRpR/view?usp=sharing) para ver a documentação lógica do projeto.
